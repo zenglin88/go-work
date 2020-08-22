@@ -1,0 +1,3 @@
+2. Implement a task scheduler, which given a list of tasks executes both serially and concurrently.
+• Define the tasks structure that can be used as an input.
+• After executing all tasks, print the list of task IDs and their start/return times.

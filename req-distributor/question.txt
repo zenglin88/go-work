@@ -1,0 +1,2 @@
+3. Implement an HTTP service which accepts incoming requests and assigns the request to 1 of 3 buckets (A, B or C) based on the given distribution.
+Write a unit test to verify your solution.
